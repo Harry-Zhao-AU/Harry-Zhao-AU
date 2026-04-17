@@ -28,7 +28,7 @@ Building AI-augmented systems — distributed platforms, event-driven architectu
 ## Recent Blog Posts
 
 - [Choreography vs Orchestration: Saga, Idempotency & Tracing](https://harry-zhao-au.github.io/blog/2026/04/17/choreography-vs-orchestration-saga-idempotency-tracing/)
-- [Saga + Outbox + Kafka EOS: Distributed Transactions](https://harry-zhao-au.github.io/blog/2026/04/12/saga-outbox-kafka-eos-distributed-transactions/)
+- [I Built My Own AI Agent from Scratch to Understand How They Actually Work](https://harry-zhao-au.github.io/blog/2026/04/05/built-my-own-ai-agent-from-scratch/)
 - [BankForge: Why I Built an Enterprise Banking Platform](https://harry-zhao-au.github.io/blog/2026/04/12/bankforge-why-i-built-an-enterprise-banking-platform/)
 - [I Built a GraphRAG App](https://harry-zhao-au.github.io/blog/2026/04/06/i-built-a-graphrag-app/)
 - [I Went All In on AI Coding](https://harry-zhao-au.github.io/blog/2026/04/06/i-went-all-in-on-ai-coding/)
