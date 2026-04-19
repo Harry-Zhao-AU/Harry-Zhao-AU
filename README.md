@@ -16,12 +16,14 @@ Building AI-augmented systems — distributed platforms, event-driven architectu
 
 | Domain | Technologies |
 |---|---|
-| **AI & Tooling** | Claude Code, GitHub Copilot, AI-augmented workflows |
+| **AI & Tooling** | Claude Code, GitHub Copilot, AI-augmented workflows, GraphRAG, AI Agents, MCP |
 | **Cloud & Azure** | App Service, Azure Functions, Service Bus, Application Insights |
-| **Backend** | C#, Java, TypeScript, Spring Boot, Kafka, REST / GraphQL |
+| **Backend** | C#, Java, TypeScript, Spring Boot, Kafka, REST |
+| **Databases** | SQL Server, PostgreSQL, Redis, Neo4j |
+| **Observability** | OpenTelemetry, Application Insights, Distributed Tracing |
 | **Security** | OAuth2, OIDC, mTLS, API Gateway, Open Banking |
-| **DevOps** | GitHub Actions, CI/CD, Infrastructure as Code, Doc-as-Code |
-| **Architecture** | CQRS, Saga, Event-Driven, FSM, Circuit Breaker |
+| **DevOps** | GitHub Actions, CI/CD, Infrastructure as Code, Docker, Kubernetes, TDD |
+| **Architecture** | Microservices, Saga, Event-Driven, FSM, Circuit Breaker, DDD |
 
 ---
 
