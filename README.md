@@ -32,7 +32,7 @@ Building AI-augmented systems — distributed platforms, event-driven architectu
 - [PulsePost: I built an AI pipeline that writes, approves, and publishes articles for me](https://harry-zhao-au.github.io/blog/2026/04/19/pulsepost-ai-article-pipeline/)
 - [Choreography vs Orchestration: Saga, Idempotency & Tracing](https://harry-zhao-au.github.io/blog/2026/04/17/choreography-vs-orchestration-saga-idempotency-tracing/)
 - [I Built My Own AI Agent from Scratch to Understand How They Actually Work](https://harry-zhao-au.github.io/blog/2026/04/05/built-my-own-ai-agent-from-scratch/)
-- [BankForge: Building a Banking Platform to Understand Distributed Systems](https://harry-zhao-au.github.io/blog/2026/04/12/bankforge-why-i-built-an-enterprise-banking-platform/)
+- [BankForge: A Hands-On Deep Dive into Distributed Systems Patterns](https://harry-zhao-au.github.io/blog/2026/04/12/bankforge-why-i-built-an-enterprise-banking-platform/)
 - [I Built a GraphRAG App](https://harry-zhao-au.github.io/blog/2026/04/06/i-built-a-graphrag-app/)
 - [I Went All In on AI Coding](https://harry-zhao-au.github.io/blog/2026/04/06/i-went-all-in-on-ai-coding/)
 
